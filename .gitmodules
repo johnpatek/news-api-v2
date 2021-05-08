@@ -1,0 +1,3 @@
+[submodule "src/ext/jsoncpp"]
+	path = src/ext/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp
